@@ -1,4 +1,4 @@
-# SumBasic-Article-Cluster-Summarizer-Implementation
+# SumBasic-Article-Cluster-Summarizer
 
 An implementation of SumBasic as described in The Impact of Frequency on Summarization by Ani Nenkova and Lucy Vanderwende along with other custom versions of the algorithm. Done as part of an assignment for COMP 550: Natural Language Processing at McGill University. 
 
