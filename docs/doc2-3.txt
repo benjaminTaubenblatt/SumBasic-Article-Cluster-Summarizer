@@ -1,0 +1,134 @@
+Facebook has appealed against a fine imposed on it by the UK's
+data watchdog after the Cambridge Analytica scandal.
+
+The social network says that because the regulator found no
+evidence that UK users' personal data had been shared
+inappropriately, the £500,000 penalty was unjustified.
+
+Last month, the watchdog said Facebook's failure to make
+suitable checks on apps and developers amounted to a "serious
+breach of the law".
+
+It has acknowledged the appeal.
+
+This was the last day on which the US firm could challenge the
+Information Commissioner's ruling.
+
+The affair stems from the discovery that an academic at the
+University of Cambridge - Dr Aleksandr Kogan - used a
+personality quiz to harvest up to 87 million Facebook users'
+details.
+
+Some of this was subsequently shared with the political
+consultancy Cambridge Analytica, which used it to target
+political advertising in the US.
+
+It was initially reported that about 1.1 million UK-based
+users had had their details exposed.
+
+But Cambridge Analytica said it had only ever licensed data
+belonging to about 30 million people, and a probe by the
+Information Commissioner's Office found no evidence that UK
+citizens were among them.
+* Facebook-Cambridge Analytica data breach
+* Facebook ads urge its staff to leak secrets
+* Facebook accused of dark PR tactics.
+
+Even so, the ICO imposed the maximum penalty possible on
+Facebook on the basis that UK members had been put at risk
+and the tech firm had not done enough to address this after
+learning of the problem.
+
+"The ICO's investigation stemmed from concerns that UK
+citizens' data may have been impacted by Cambridge Analytica,
+yet they now have confirmed that they have found no evidence to
+suggest that information of Facebook users in the UK was ever
+shared by Dr Kogan with Cambridge Analytica, or used by its
+affiliates in the Brexit referendum," said a statement from
+Facebook's lawyer Anna Benckert.
+
+"Therefore, the core of the ICO's argument no longer relates to
+the events involving Cambridge Analytica. Instead, their
+reasoning challenges some of the basic principles of how people
+should be allowed to share information online, with
+implications which go far beyond just Facebook, which is why we
+have chosen to appeal.
+
+"For example, under the ICO's theory people should not be
+allowed to forward an email or message without having agreement
+from each person on the original thread.
+
+"These are things done by millions of people every day on
+services across the internet, which is why we believe the ICO's
+decision raises important questions of principle for everyone
+online which should be considered by an impartial court based
+on all the relevant evidence."
+
+An independent body, known as a General Regulatory Chamber
+tribunal, will consider the challenge.
+
+If it is unhappy with the decision, Facebook can subsequently
+take the case to the Court of Appeal.
+
+"Any organisation issued with a monetary penalty notice by the
+Information Commissioner has the right to appeal the decision
+to the First-tier Tribunal," said a spokesman for the ICO.
+
+"The progression of any appeal is a matter for the tribunal. We
+have not yet been notified by the tribunal that an appeal has
+been received."
+
+The appeal risks dragging out an affair that has undermined the
+public and politicians' trust in Facebook.
+
+However, the BBC understands that the US firm was concerned
+that the ICO's ruling would form the basis for decisions taken
+by other regulators, which could prove more damaging still.
+
+The ICO has itself noted that the £500,000 fine would be
+"significantly higher" had the EU's General Data Protection
+Regulation been in force earlier.
+
+The move has not, however, changed chief executive Mark
+Zuckerberg's mind about rejecting an invitation to be
+cross-examined by MPs.
+
+Analysis: Rory Cellan-Jones, Technology correspondent
+
+Image copyright Getty Images/BBC Image caption The stakes are
+high for both Facebook's chief and the UK's Information
+Commissioner
+
+Facebook's decision to appeal against this fine is a move that
+Sir Humphrey, the civil servant in Yes Minister, would describe
+as "brave".
+
+At a time when the social media firm is under fire and accused
+of using dodgy tactics to combat its critics, picking a fight
+with the UK regulator over an issue which was beginning to fade
+into the background seems reckless.
+
+After all, the social media giant admits that it got a whole
+lot of things wrong in the Cambridge Analytica affair, in
+particular allowing the data of friends of people who took part
+in a personality quiz to be scraped.
+
+But Facebook feels that the Information Commissioner's Office
+moved the goalposts halfway through its investigation, deciding
+that one million UK users had suffered harm and then finding
+that the researcher Dr Aleksandr Kogan did not pass their data
+on to Cambridge Analytica.
+
+Some data protection experts think the company has a point.
+
+Mark Zuckerberg and his company appear determined to fight back
+against what they see as a flawed process but the appeal is a
+gamble.
+
+The stakes are also high for the Information Commissioner
+Elizabeth Denham. She made the unusual decision to go public
+with her intention to impose a fine before receiving
+representations from the company.
+
+If Facebook's appeal succeeds, her authority as a regulator
+will be seriously undermined.

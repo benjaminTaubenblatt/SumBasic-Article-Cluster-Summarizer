@@ -1,0 +1,88 @@
+Policy vp Richard Allan addressed a landmark fake news and
+disinformation inquiry in the British parliament in London.
+
+A top Facebook policy executive on Tuesday told a U.K.
+parliamentary committee looking into fake news and
+disinformation that the actions of Cambridge Analytica app
+developers to gain access to data from Facebook users before
+the 2016 U.S. presidential election had undermined trust in the
+social media giant.
+
+"I'm not going to disagree with you that we've damaged public
+trust by some of the actions we've taken," Richard Allan, the
+social media giant's vp of policy solutions for Europe, the
+Middle East and Africa, told an "international grand committee
+on disinformation and fake news" in London that involved
+parliamentarians from the U.K., Ireland, Canada, Argentina,
+Brazil, Latvia and Singapore.
+
+The committee, part of an ongoing inquiry by the British House
+of Commons' Digital, Culture, Media and Sport Committee into
+disinformation and fake news, had invited Facebook chairman and
+CEO Mark Zuckerberg to appear at the hearing. But Zuckerberg
+declined to attend after earlier apologizing for the Cambridge
+Analytica scandal to members of the European Parliament.
+
+Canadian member of parliament Charlie Angus joined the chorus
+of disappointment over Zuckerberg's absence, which he insisted
+amounted to "blowing off this committee." The organizers of the
+event even left the front chair empty, and a "Mark Zuckerberg"
+nameplate in front of it, to represent the Facebook chief. Last
+week the committee argued that it "still believes Mark
+Zuckerberg is the appropriate person to answer important
+questions about data privacy, safety, security and sharing."
+
+Allan, who is himself a former member of the U.K. parliament,
+admitted that it was “not great” in terms of appearances that
+Zuckerberg did not show up to the hearing. Angus at one point
+told Allan that "while we were playing on our phones and apps,
+our democratic institutions...seem to have been upended by frat
+boy billionaires from California."
+
+Cambridge Analytica before the 2016 U.S. election used
+information from Facebook and others to build psychological
+profiles of American voters, with, among other things, an app
+that appeared to be a personality test. The app collected data
+on tens of millions of people and their Facebook friends, even
+those who did not download the app themselves.
+
+Allan conceded that Facebook had been undermined by the
+Cambridge Analytica scandal and other revelations, including
+the social media giant hiring a Republican opposition firm,
+Definers Public Affairs, to investigate billionaire George
+Soros.
+
+British parliamentarian Ian Lucas told Allan that “Facebook has
+told us a tissue of lies about the way it operates,” alleging
+that the social media giant knew “throughout” that Cambridge
+Analytica developers had been harvesting data and only
+intervened when those efforts were made public.
+
+Allan's appearance was preceded by revelations in The
+Guardian that the British parliament recently used its legal
+powers to seize a number of Facebook internal documents that
+allegedly discuss data and privacy decisions that may have led
+to the Cambridge Analytica scandal.
+
+The U.K. media report claimed the cache of internal papers
+includes communications between senior Facebook executives and
+Zuckerberg. Damian Collins, the chair of the parliamentary
+committee, told Allan that the seized Facebook documents and
+emails would not be made public on Tuesday. But he called
+Allan's attention to one email from a Facebook engineer that in
+October 2014 reported heavy Russian activity.
+
+"If Russian IP addresses were pulling down a huge amount of
+information from the platform, was that reported or, as so
+often, was it kept within the family?" Collins asked. Allan,
+while not addressing the Facebook engineer claim or Collins'
+question directly, responded, "Those documents are at best
+partial and at worst misleading."
+
+Allan also insisted that Facebook had nothing to hide, but
+rejected the idea that "internal discussions" be made public.
+He told the parliamentary committee that Facebook was
+continually attempting to refine the controls used by its users
+to protect personal data and privacy. "Our intention is you
+should not be surprised by the way your data is used," he said.
+"It's not a good outcome if you are."

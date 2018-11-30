@@ -1,0 +1,94 @@
+UK gov't seizes documents Facebook wanted to keep private in
+Cambridge Analytica battle
+
+It appears that the UK parliament will not stand for being
+ignored by Mark Zuckerberg any longer.
+
+The UK parliament has exercised little-used powers in order to
+seize confidential documents relating to the Cambridge
+Analytica scandal.
+
+It was in May this year that the UK government requested Mark
+Zuckerberg's presence at a hearing in order to answer questions
+relating to the scandal, in which the data of up to 87
+million users was improperly shared with a voter profiling
+company.
+
+It was originally estimated that over one million UK users were
+impacted.
+
+While the Facebook CEO did attend a US Congress hearing,
+meeting UK parliamentary members seemed to be a low priority,
+and Zuckerberg ignored the invitation.
+
+We said at the time that ignoring such a request could have
+detrimental consequences in the future -- and it seems this
+prediction has now come true.
+
+As first reported by The Guardian, the UK parliament has
+now seized confidential documents relating to the Cambridge
+Analytica case.
+
+The cache of internal documents, which reportedly contains
+information relating to privacy and data controls as well as
+private emails between Facebook executes and Zuckerberg, is now
+allegedly in the UK government's possession.
+
+The publication says that conservative MP and Digital, Culture,
+Media and Sport (DCMS) chair Damian Collins invoked
+parliamentary powers in order to send a serjeant at arms -- a
+figure responsible for keeping order in the Commons -- to a
+hotel where the founder of Six4Three was staying during a
+London business trip.
+
+TechRepublic: Facebook data privacy scandal: A cheat sheet
+
+The founder of the US company was required to hand over the
+documents but this request was ignored. Once the serjeant at
+arms appeared, however, the executive was given a two-hour
+deadline and final warning.
+
+The Guardian says that the founder was then escorted to
+parliament and told that fines and prison time could be in his
+future should he continue to resist. The documents then entered
+the government's possession.
+
+Collins said that "we've failed to get answers from Facebook
+and we believe the documents contain information of very high
+public interest."
+
+Facebook has demanded the return of the data cache. The
+documents were originally obtained through legal discovery in
+the US, where Six4Three and Facebook are involved in a court
+case taking place in California. Six4Three alleges that
+Facebook has held a complete disregard for user privacy,
+violated trust, and has also used illegal tactics to
+strengthen its market position.
+
+Facebook, in turn, says the claims "have no merit, and we will
+continue to defend ourselves vigorously."
+
+See also: Facebook entices researchers with $40,000 reward
+for account takeover vulnerabilities
+
+"The materials obtained by the DCMS committee are subject to a
+protective order of the San Mateo Superior Court restricting
+their disclosure," a Facebook spokesperson said. "We have asked
+the DCMS committee to refrain from reviewing them and to return
+them to counsel or to Facebook. We have no further comment."
+
+Collins has reviewed the documents and after receiving
+communication from Facebook's public policy vice president
+Richard Allen, posted his emailed response on Twitter.
+
+In short, the MP said that even if documents are kept under
+seal in the US, the UK government has the right to publish them
+under parliamentary privilege.
+
+The UK's Information Commissioner's Office (ICO) has fined
+Facebook £500,000 over the Cambridge Analytica fiasco, a fine
+which the social media giant intends to appeal.
+
+While the UK government and Facebook continue to clash, the
+latter is also embroiled in another political issue on the
+other side of the world.
